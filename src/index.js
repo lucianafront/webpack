@@ -14,6 +14,8 @@ function titleComponent(){
     return elemH1
 }
 
+
+
 function imageComponent(){
     const elemImg = new Image()
     elemImg.src = img2
